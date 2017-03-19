@@ -1,0 +1,5 @@
+C:\Users\scott\Documents\GitHub\DragonTrinity\DragonTrinity\AtomicNET\Release\Bin\Portable\DragonTrinity.dll
+C:\Users\scott\Documents\GitHub\DragonTrinity\DragonTrinity\AtomicNET\Release\Bin\Portable\DragonTrinity.pdb
+C:\Users\scott\Documents\GitHub\DragonTrinity\DragonTrinity\AtomicNET\Solution\DragonTrinity\obj\Release\DragonTrinity.csprojResolveAssemblyReference.cache
+C:\Users\scott\Documents\GitHub\DragonTrinity\DragonTrinity\AtomicNET\Solution\DragonTrinity\obj\Release\DragonTrinity.dll
+C:\Users\scott\Documents\GitHub\DragonTrinity\DragonTrinity\AtomicNET\Solution\DragonTrinity\obj\Release\DragonTrinity.pdb

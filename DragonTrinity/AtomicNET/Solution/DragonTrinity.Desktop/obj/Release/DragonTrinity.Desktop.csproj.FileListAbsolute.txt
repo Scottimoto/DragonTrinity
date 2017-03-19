@@ -1,0 +1,7 @@
+C:\Users\scott\Documents\GitHub\DragonTrinity\DragonTrinity\AtomicNET\Release\Bin\Desktop\AtomicNETNative.dll
+C:\Users\scott\Documents\GitHub\DragonTrinity\DragonTrinity\AtomicNET\Release\Bin\Desktop\D3DCompiler_47.dll
+C:\Users\scott\Documents\GitHub\DragonTrinity\DragonTrinity\AtomicNET\Release\Bin\Desktop\DragonTrinity.exe
+C:\Users\scott\Documents\GitHub\DragonTrinity\DragonTrinity\AtomicNET\Release\Bin\Desktop\DragonTrinity.pdb
+C:\Users\scott\Documents\GitHub\DragonTrinity\DragonTrinity\AtomicNET\Solution\DragonTrinity.Desktop\obj\Release\DragonTrinity.Desktop.csprojResolveAssemblyReference.cache
+C:\Users\scott\Documents\GitHub\DragonTrinity\DragonTrinity\AtomicNET\Solution\DragonTrinity.Desktop\obj\Release\DragonTrinity.exe
+C:\Users\scott\Documents\GitHub\DragonTrinity\DragonTrinity\AtomicNET\Solution\DragonTrinity.Desktop\obj\Release\DragonTrinity.pdb

@@ -1,0 +1,28 @@
+{
+	"version": 1,
+	"guid": "b969084ae32123a3d1dee006fd108957",
+	"NETAssemblyImporter": {
+		"AssemblyJSON": {
+			"enums": [],
+			"components": [
+				{
+					"name": "Spinner",
+					"namespace": "",
+					"fields": [
+						{
+							"isEnum": false,
+							"isArray": false,
+							"typeName": "Single",
+							"name": "speed",
+							"defaultValue": "1",
+							"caPos": [
+								""
+							],
+							"caNamed": {}
+						}
+					]
+				}
+			]
+		}
+	}
+}

@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<PropertyGroup>
+		<MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
+		<HasSharedItems>true</HasSharedItems>
+		<SharedGUID>071BB14E-7518-11E6-A32D-005056C00008</SharedGUID>
+	</PropertyGroup>
+	<PropertyGroup Label="Configuration">
+		<Import_RootNamespace>AtomicEngine</Import_RootNamespace>
+	</PropertyGroup>
+	<ItemGroup>
+		<Compile Include="..\..\..\Resources\Components\Spinner.cs">
+			<Link>Components\Spinner.cs</Link>
+		</Compile>
+		<Compile Include="..\..\..\Resources\Scripts\AtomicMain.cs">
+			<Link>Scripts\AtomicMain.cs</Link>
+		</Compile>
+	</ItemGroup>
+</Project>
